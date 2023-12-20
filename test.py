@@ -1,7 +1,7 @@
 import requests
 
 # url = "http://localhost:9696/predict"  # to run locally using docker
-host = "drugs-class-env.eba-c9pvy2sr.ap-southeast-1.elasticbeanstalk.com"
+host = "https://drugs-classifications-afaf29e1854b.herokuapp.com/"
 # host = "drugs-classification-capstone-env.eba-c9pvy2sr.ap-southeast-1.elasticbeanstalk.com"
 url =  f"http://{host}/predict"
 

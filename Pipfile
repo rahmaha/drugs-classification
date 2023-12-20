@@ -9,6 +9,7 @@ scikit-learn = "==1.3.1"
 flask = "*"
 pandas = "*"
 gunicorn = "*"
+requests = "*"
 
 [dev-packages]
 awsebcli = "*"
