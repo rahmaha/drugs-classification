@@ -43,7 +43,7 @@ Download or clone the project `https://github.com/rahmaha/drugs-classification.g
 
 ### Cloud
 
-For cloud, I using aws EKS. To run the project, you can:
+For cloud, I using aws EBS. To run the project, you can:
 
 1. Run pipenv install
 2. Run pipenv shell
